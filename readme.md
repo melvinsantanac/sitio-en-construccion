@@ -1,0 +1,1 @@
+# Plantilla estatica responsive para sitios en construcción o en mantenimiento.
