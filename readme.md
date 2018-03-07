@@ -1,1 +1,3 @@
-# Plantilla estática responsive para sitios en construcción o en mantenimiento.
+# Plantilla estática responsive.
+
+Perfecta para poner sitios web en estado de construcción o mantenimiento.
