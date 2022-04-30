@@ -1,4 +1,4 @@
-$/* Reset estilos por defecto */
+/* Reset estilos por defecto */
 		*,
 		*::before,
 		*::after {
@@ -27,7 +27,7 @@ $/* Reset estilos por defecto */
 			align-items: center;
 			justify-content: center;
 			height: 100vh;
-			background-image: url(img/background.jpg);
+			background-image: url(/assets/img/background.jpg);
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
