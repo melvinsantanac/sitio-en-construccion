@@ -121,16 +121,15 @@ a {
   color: #333333;
   padding: 1em;
   width: 75px !important;
-  border-radius: 7px;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  -ms-border-radius: 7px;
-  -o-border-radius: 7px;
   transition: all 0.3s;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
+}
+
+.btn-projects:first-child {
+  margin-right: 0.5em;
 }
 
 .btn-projects:hover {
